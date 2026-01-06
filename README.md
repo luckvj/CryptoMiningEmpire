@@ -1,5 +1,3 @@
-# CryptoMiningEmpire
-
 A cryptocurrency mining idle game built with Flutter. Mine various cryptocurrencies, buy GPUs, upgrade your mining operation, and watch your crypto portfolio grow!
 
 ## 🎮 Features
@@ -137,9 +135,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📧 Contact
 
-Your Name - [@yourhandle](https://twitter.com/yourhandle) - email@example.com
+Your Name - [@UnLuckvj]((https://x.com/UnLuckvj)) - email@example.com
 
-Project Link: [https://github.com/YOUR_USERNAME/CryptoMiningEmpire](https://github.com/YOUR_USERNAME/CryptoMiningEmpire)
+Project Link: ((https://github.com/luckvj/CryptoMiningEmpire))
 
 ## 🎮 Future Features
 
