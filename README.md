@@ -12,7 +12,7 @@ A cryptocurrency mining idle game built with Flutter. Mine various cryptocurrenc
 
 ## 📸 Screenshots
 
-*(Add screenshots here)*
+*Coming soon...*
 
 ## 🚀 Getting Started
 
