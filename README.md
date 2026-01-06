@@ -26,7 +26,7 @@ A cryptocurrency mining idle game built with Flutter. Mine various cryptocurrenc
 
 1. **Clone or download** this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/CryptoMiningEmpire.git
+   git clone https://github.com/luckvj/CryptoMiningEmpire.git
    cd CryptoMiningEmpire
    ```
 
