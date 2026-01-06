@@ -135,7 +135,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📧 Contact
 
-Your Name - [@UnLuckvj]((https://x.com/UnLuckvj)) - email@example.com
+Your Name - [@UnLuckvj]((https://x.com/UnLuckvj))
 
 Project Link: ((https://github.com/luckvj/CryptoMiningEmpire))
 
