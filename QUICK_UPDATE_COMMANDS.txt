@@ -1,0 +1,26 @@
+# Quick Commands to Update Your GitHub Repo
+
+## Step 1: Commit and Push Android Branch
+cd CryptoMiningEmpire-Update
+git add .
+git commit -m "Add Android support + GPU fixes (real images & accurate MH/s)"
+git push origin android-support
+
+## Step 2: Create Pull Request
+Go to: https://github.com/luckvj/CryptoMiningEmpire
+Click "Compare & pull request" button
+Review changes and click "Create pull request"
+
+## Step 3: Test (Recommended)
+flutter pub get
+flutter build apk --debug
+flutter run
+
+## Step 4: Merge to Main (after testing)
+git checkout master
+git merge android-support
+git push origin master
+
+## Done! 🎉
+
+Your repository now has Android support with GPU fixes!

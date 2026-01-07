@@ -2,11 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-import 'package:google_fonts/google_fonts.dart';
 
 import 'core/theme/cyberpunk_theme.dart';
 import 'core/services/storage_service.dart';
-import 'core/services/api_service.dart';
 import 'providers/game_state_provider.dart';
 import 'providers/crypto_price_provider.dart';
 import 'screens/splash_screen.dart';
